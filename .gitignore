@@ -1,3 +1,6 @@
+# firebase
+firebase.json
+
 # Expo
 .expo
 __generated__
@@ -133,6 +136,7 @@ docs/pages/versions/*/react-native/*.diff
 /packages/**/*.xcframework
 /packages/**/*.spec.json
 /packages/**/Info-generated.plist
+
 
 # Pods
 /ios/Pods
